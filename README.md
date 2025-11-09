@@ -52,11 +52,6 @@ Above step enabled displaying player profile pictures inside Power BI dashboards
 
 ## 🖼️ Report Snapshot
 
-### 🏏 Overall Match Summary
-![India vs Australia Overview](https://raw.githubusercontent.com/Sujithts12/Cricket_ODI_India_vs_Australia/main/Indiavausatr.png)
-
----
-
 ### 🧢 Batting Performance Report Snapshot (Power BI DESKTOP)
 
 #### 1️⃣ Batting Insights – Part 1
