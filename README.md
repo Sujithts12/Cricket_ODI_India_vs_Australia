@@ -1,14 +1,15 @@
 
 # Dashboard: ODI – India vs Australia: Visualizing the Game Key Moments & Player Metrics
     
-
+## 📁 Project File
+- [cricket.pbix](./cricket.pbix)
 
 ## 📊 Power BI Report Download
 
 The report is provided in `.pbix` format and is designed to be opened using **Microsoft Power BI Desktop**.  
 Please ensure you have Power BI Desktop installed to view and interact with the dashboard.
 
-📎 [Download the Power BI Report – India vs Australia](India_vs_Australia.pbix)
+Project File
 
 ## LinkedIn
 https://tinyurl.com/IndiaVsAustraliaDashboard
@@ -49,67 +50,55 @@ Above step enabled displaying player profile pictures inside Power BI dashboards
 
 - Step 12 : In the report view, under the insert tab, using shapes option from elements group a rectangle and parallelogram was inserted & similarly using image option Indian tricolour flag was added to the report design area.
 
- # Cover Image Snapshot (Power BI DESKTOP)
+## 🖼️ Report Snapshot
 
-![Cover Image Snapshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_Bi_Dashboard-/main/Cover_2025-08-21_005241.png)
+### 🏏 Overall Match Summary
+![India vs Australia Overview](https://raw.githubusercontent.com/Sujithts12/Cricket_ODI_India_vs_Australia/main/Indiavausatr.png)
 
+---
 
+### 🧢 Batting Performance Report Snapshot (Power BI DESKTOP)
 
+#### 1️⃣ Batting Insights – Part 1
+![Batting1](https://raw.githubusercontent.com/Sujithts12/Cricket_ODI_India_vs_Australia/main/Batting1.png)
 
-# Report Snapshot (Power BI DESKTOP) Batting
-1.
-![Cover Image Snapshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_Bi_Dashboard-/main/Sachin_2025-08-21-004752.png)
+#### 2️⃣ Batting Insights – Part 2
+![Batting2](https://raw.githubusercontent.com/Sujithts12/Cricket_ODI_India_vs_Australia/main/Batting2.png)
 
+#### 3️⃣ Batting Insights – Part 3
+![Batting3](https://raw.githubusercontent.com/Sujithts12/Cricket_ODI_India_vs_Australia/main/Batting3.png)
 
+#### 4️⃣ Batting Insights – Part 4
+![Batting4](https://raw.githubusercontent.com/Sujithts12/Cricket_ODI_India_vs_Australia/main/Batting4.png)
 
-2.
+---
 
-![Cover Image Snapshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_Bi_Dashboard-/main/Virat_2025-08-21_004819.png)
+### 🎯 Bowling Performance Report Snapshot (Power BI DESKTOP)
 
+#### 1️⃣ Bowling Overview
+![Bowling0](https://raw.githubusercontent.com/Sujithts12/Cricket_ODI_India_vs_Australia/main/Bowling0.png)
 
-3.
+#### 2️⃣ Bowling Insights – Part 1
+![Bowling1](https://raw.githubusercontent.com/Sujithts12/Cricket_ODI_India_vs_Australia/main/Bowling1.png)
 
-![Cover Image Snapshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_Bi_Dashboard-/main/Dhoni_2025-08-21_004945.png)
+#### 3️⃣ Bowling Insights – Part 2
+![Bowling2](https://raw.githubusercontent.com/Sujithts12/Cricket_ODI_India_vs_Australia/main/Bowling2.png)
 
+#### 4️⃣ Bowling Insights – Part 3
+![Bowling3](https://raw.githubusercontent.com/Sujithts12/Cricket_ODI_India_vs_Australia/main/Bowling3.png)
 
-4.
+#### 5️⃣ Bowling Insights – Part 4
+![Bowling4](https://raw.githubusercontent.com/Sujithts12/Cricket_ODI_India_vs_Australia/main/Bowling4.png)
 
-![Cover Image Snapshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_Bi_Dashboard-/main/Kedar_2025-08-21_004921.png)
-
-5.
-
-![Cover Image Snapshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_Bi_Dashboard-/main/Gaikwad_2025-08-1_213347.png)
-
-6.
-
-![Cover Image Snapshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_Bi_Dashboard-/main/har_2025-08-21_004857.png)
-
-# Report Snapshot (Power BI DESKTOP) Bowling
-
-1.
-
-![Cover Image Snapshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_Bi_Dashboard-/main/jas_2025-08-21_005037.png)
-
-2.
-
-![Cover Image Snapshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_Bi_Dashboard-/main/anil_2025-08-21_005117.png)
-
-3.
-
-![Cover Image Snapshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_Bi_Dashboard-/main/jadeja_2025-08-21-005133.png)
-
-4.
-
-![Cover Image Snapshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_Bi_Dashboard-/main/ask_2025-08-21_005101.png)
-
+---
 
 ## 👨‍💻 Author
 *Dashboard Created By:* Sujith TS 
 
 *Date:* 20th August 2025
 
-## 📂 Download .pbix 
-[Click here to download the Power BI report](India_vs_Australia.pbix)
+## 📂 Download .pbix Project File
+- [cricket.pbix](./cricket.pbix)
 
 🎥 [Watch the interactive video demo on LinkedIn] 
 ## Link : https://tinyurl.com/IndiaVsAustraliaDashboard
